@@ -21,3 +21,4 @@ This project simulates a smart spoon system using machine learning, computer vis
    ```bash
    python main.py
    ```
+<img width="153" alt="cfg" src="C:\Users\DELL\Pictures\Output.jpeg">
