@@ -24,3 +24,9 @@ This project simulates a smart spoon system using machine learning, computer vis
 
 ## Output
 ![Output](https://github.com/user-attachments/assets/0c180235-aa8c-423e-9b9d-22509e272316)
+
+##Collaborators
+
+- [@username1](https://github.com/preetiukulkarni5)
+- [@username2](https://github.com/username2)
+- [@username3](https://github.com/username3)
