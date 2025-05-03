@@ -44,10 +44,10 @@ This project simulates a smart spoon system using machine learning, computer vis
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username3">
+      <a href="https://github.com/snehakamgond16">
         <img src="https://github.com/username3.png" width="80px;" alt="username3"/>
         <br />
-        <sub><b>username3</b></sub>
+        <sub><b>snehakamgond16</b></sub>
       </a>
     </td>
   </tr>
