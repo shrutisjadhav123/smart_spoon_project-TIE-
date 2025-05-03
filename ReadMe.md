@@ -52,7 +52,7 @@ This project simulates a smart spoon system using machine learning, computer vis
     </td>
       <td align="center">
       <a href="https://github.com/varshayadavannavar">
-        <img src="https://github.com/username3.png" width="80px;" alt="username3"/>
+        <img src="https://github.com/username4.png" width="80px;" alt="username4"/>
         <br />
         <sub><b>varshayadavannavar</b></sub>
       </a>
